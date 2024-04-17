@@ -1,6 +1,8 @@
-Title: Historical Age Matcher: An Educational Android App
+Title: Historical Age Matcher
+
 Purpose of the App:
-The Historical Age Matcher app aims to provide an engaging and educational experience for students by allowing them to compare their ages to famous historical figures. The primary objective is to foster an interest in history while also making learning fun and interactive. By connecting students with historical figures through a personalized experience, the app seeks to spark curiosity and facilitate learning beyond traditional classroom settings.
+The purpose of this app aims to provide an engaging and educational experience for students by allowing them to compare their ages to famous historical figures. The primary objective is to foster an interest in history while also making learning fun and interactive. By connecting students with historical figures through a personalized experience, the app seeks to spark curiosity and facilitate learning beyond traditional classroom settings.
+
 Design Considerations:
 1.	User Interface (UI) Design:
 •	The UI design prioritizes simplicity and engagement to ensure ease of use for students of all ages.
@@ -18,6 +20,7 @@ Design Considerations:
 •	Version control is essential for collaborative development and maintaining code integrity throughout the project lifecycle.
 •	GitHub is utilized as a version control platform to host the project repository and facilitate collaboration among team members.
 •	Git commits are used to track changes, allowing for easy identification of modifications and rollbacks if needed.
+
 Utilization of GitHub and GitHub Actions:
 1.	Repository Setup:
 •	A GitHub repository is created to host the project files, including source code, documentation, and resources.
@@ -35,5 +38,6 @@ Utilization of GitHub and GitHub Actions:
 5.	Error Handling and Quality Assurance:
 •	GitHub Actions is leveraged for error handling and quality assurance by running linting and static code analysis tools as part of the CI workflow.
 •	Automated checks are performed to detect code smells, potential bugs, and adherence to coding standards, ensuring code quality and maintainability.
+
 Conclusion:
-The Historical Age Matcher app is designed to provide an educational and engaging experience for students by allowing them to compare their ages to famous historical figures. Through thoughtful UI design, robust functionality, and integration with GitHub and GitHub Actions, the app offers a seamless user experience while promoting learning and curiosity. By leveraging technology to connect students with history in a personalized manner, the app aims to inspire a lifelong passion for learning and exploration.
+In conclusion the Historical Age Matcher app is designed to provide an educational and engaging experience for students by allowing them to compare their ages to famous historical figures. Through thoughtful UI design, robust functionality, and integration with GitHub and GitHub Actions, the app offers a seamless user experience while promoting learning and curiosity. By leveraging technology to connect students with history in a personalized manner, the app aims to inspire a lifelong passion for learning and exploration.
